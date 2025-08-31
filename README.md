@@ -1,16 +1,19 @@
-# cycle2_internship_app
+# Flutter To-Do App
+Week 6 Flutter Developers Internship Project
 
-A new Flutter project.
+## Description
+This is a To-Do List Flutter application with:
+- Login and Logout functionality using SharedPreferences
+- Auto-login
+- Light/Dark theme toggle
+- Task management: Add, Delete, Toggle completion
+- State management using Provider
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Email & Password login
+- Home screen with task list
+- Add new tasks
+- Mark tasks as completed/incomplete
+- Delete tasks
+- Toggle Light/Dark theme
+- Persistent login state
